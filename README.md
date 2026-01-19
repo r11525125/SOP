@@ -40,6 +40,7 @@ Run the plotting script:
 
 Slides
 - /home/adlink/electronics/figure0119/slides.md
+- /home/adlink/electronics/figure0119/slides_zh.md
 
 Notes
 - Scheduling figures reuse the original plotting style and seeds from the SOP scheduler runs.
