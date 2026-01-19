@@ -1,0 +1,25 @@
+numUe,FlowType,mean_throughput,std_throughput,mean_delay,std_delay,n,se_throughput,se_delay,policy
+8,bulk,1.16284,,0.0688682,,1,0.0,0.0,SOP
+8,sensor,0.174344,,0.699153,,1,0.0,0.0,SOP
+8,video,2.15714,,1.5014,,1,0.0,0.0,SOP
+10,bulk,1.16056,,0.0687452,,1,0.0,0.0,SOP
+10,sensor,0.153069,,0.803034,,1,0.0,0.0,SOP
+10,video,1.78528,,1.17383,,1,0.0,0.0,SOP
+20,bulk,1.43316,,0.0535286,,1,0.0,0.0,SOP
+20,sensor,0.105249,,0.557406,,1,0.0,0.0,SOP
+20,video,0.246638,,1.56834,,1,0.0,0.0,SOP
+30,bulk,0.739155,,0.0622175,,1,0.0,0.0,SOP
+30,sensor,0.0784594,,0.76791,,1,0.0,0.0,SOP
+30,video,0.0839206,,0.789014,,1,0.0,0.0,SOP
+8,bulk,0.843598,,0.0530788,,1,0.0,0.0,SOP+LSTM (alloc-only)
+8,sensor,0.148099,,0.536278,,1,0.0,0.0,SOP+LSTM (alloc-only)
+8,video,1.32912,,1.02776,,1,0.0,0.0,SOP+LSTM (alloc-only)
+10,bulk,1.05101,,0.0657379,,1,0.0,0.0,SOP+LSTM (alloc-only)
+10,sensor,0.144551,,0.55777,,1,0.0,0.0,SOP+LSTM (alloc-only)
+10,video,1.04149,,0.722524,,1,0.0,0.0,SOP+LSTM (alloc-only)
+20,bulk,1.43243,,0.0524973,,1,0.0,0.0,SOP+LSTM (alloc-only)
+20,sensor,0.0955114,,0.603189,,1,0.0,0.0,SOP+LSTM (alloc-only)
+20,video,0.140721,,0.597288,,1,0.0,0.0,SOP+LSTM (alloc-only)
+30,bulk,0.671501,,0.0602247,,1,0.0,0.0,SOP+LSTM (alloc-only)
+30,sensor,0.0570067,,0.67158,,1,0.0,0.0,SOP+LSTM (alloc-only)
+30,video,0.0436067,,0.326018,,1,0.0,0.0,SOP+LSTM (alloc-only)
