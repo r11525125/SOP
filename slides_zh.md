@@ -21,7 +21,7 @@
 
 # 系統架構（SOP）
 
-![](fig_architecture.png)
+![](https://raw.githubusercontent.com/r11525125/SOP/main/fig_architecture.png)
 
 - SOP = SOT（追蹤/建議）+ SOS（代理/緩衝/排程）+ MEC/Remote 上傳
 - 車輛上傳先進 SOS，再由 SOS 轉送或上傳至目標伺服器
@@ -43,7 +43,7 @@
 
 # 模擬環境（概念圖）
 
-![](fig_sim_env.png)
+![](https://raw.githubusercontent.com/r11525125/SOP/main/fig_sim_env.png)
 
 - 5G gNodeB、MEC+SOS、SOT、Remote Server
 - 回程（Backhaul）延遲/丟包可調，用於 case 測試
@@ -114,7 +114,7 @@
 
 # Fig.10：Active Vehicles over Time
 
-![](fig_10_active_cases.png)
+![](https://raw.githubusercontent.com/r11525125/SOP/main/fig_10_active_cases.png)
 
 - SOP (Method 3) 相較 FIFO 降低排隊壓力
 
@@ -122,7 +122,7 @@
 
 # Fig.11：完成時間分布
 
-![](fig_11_completion_dist.png)
+![](https://raw.githubusercontent.com/r11525125/SOP/main/fig_11_completion_dist.png)
 
 - 30 秒虛線為 dwell‑time 門檻
 
@@ -130,7 +130,7 @@
 
 # Fig.12：完成時間 CDF
 
-![](fig_12_completion_cdf.png)
+![](https://raw.githubusercontent.com/r11525125/SOP/main/fig_12_completion_cdf.png)
 
 - SOP 曲線左移，準時完成比例較高
 
@@ -149,7 +149,7 @@
 
 # Fig.13：排程方法 CDF
 
-![](fig_13_sched_cdf.png)
+![](https://raw.githubusercontent.com/r11525125/SOP/main/fig_13_sched_cdf.png)
 
 - 不同方法影響 tail latency
 
@@ -157,7 +157,7 @@
 
 # Fig.14：Waiting Vehicles
 
-![](fig_14_sched_active.png)
+![](https://raw.githubusercontent.com/r11525125/SOP/main/fig_14_sched_active.png)
 
 - 等待車輛越少代表排程效率越高
 
@@ -178,13 +178,13 @@ Policies
 
 # Fig.15：政策 Delay（Video/Sensor/Bulk）
 
-![](fig_policy_delay.png)
+![](https://raw.githubusercontent.com/r11525125/SOP/main/fig_policy_delay.png)
 
 ---
 
 # Fig.16：政策 Throughput（Video/Sensor/Bulk）
 
-![](fig_policy_bulk.png)
+![](https://raw.githubusercontent.com/r11525125/SOP/main/fig_policy_bulk.png)
 
 ---
 
@@ -202,13 +202,13 @@ Policies
 
 # Fig.17：SOP vs LSTM Delay
 
-![](fig_lstm_delay.png)
+![](https://raw.githubusercontent.com/r11525125/SOP/main/fig_lstm_delay.png)
 
 ---
 
 # Fig.18：SOP vs LSTM Throughput
 
-![](fig_lstm_bulk.png)
+![](https://raw.githubusercontent.com/r11525125/SOP/main/fig_lstm_bulk.png)
 
 ---
 

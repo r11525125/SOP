@@ -10,7 +10,7 @@
 
 # Architecture Overview
 
-![](fig_architecture.png)
+![](https://raw.githubusercontent.com/r11525125/SOP/main/fig_architecture.png)
 
 - SOP = SOT (tracker) + SOS (proxy) + MEC/Remote upload
 - SOS buffers and schedules uploads
@@ -20,7 +20,7 @@
 
 # Simulation Environment
 
-![](fig_sim_env.png)
+![](https://raw.githubusercontent.com/r11525125/SOP/main/fig_sim_env.png)
 
 - 5G gNodeB + MEC+SOS + SOT + Remote server
 - Backhaul delay/loss varied per case (0/50 ms, 0/0.01)
@@ -60,7 +60,7 @@ Metrics
 
 # Fig. 10: Active Vehicles Over Time
 
-![](fig_10_active_cases.png)
+![](https://raw.githubusercontent.com/r11525125/SOP/main/fig_10_active_cases.png)
 
 - SOP (Method 3) reduces backlog vs FIFO baseline
 
@@ -68,9 +68,9 @@ Metrics
 
 # Fig. 11-12: Completion Time Distribution and CDF
 
-![](fig_11_completion_dist.png)
+![](https://raw.githubusercontent.com/r11525125/SOP/main/fig_11_completion_dist.png)
 
-![](fig_12_completion_cdf.png)
+![](https://raw.githubusercontent.com/r11525125/SOP/main/fig_12_completion_cdf.png)
 
 - SOP shifts completion times earlier under all cases
 
@@ -91,7 +91,7 @@ Metrics
 
 # Fig. 13: Scheduling CDF (Methods 1-6)
 
-![](fig_13_sched_cdf.png)
+![](https://raw.githubusercontent.com/r11525125/SOP/main/fig_13_sched_cdf.png)
 
 - Different method combinations change tail latency
 
@@ -99,7 +99,7 @@ Metrics
 
 # Fig. 14: Waiting Vehicles Over Time
 
-![](fig_14_sched_active.png)
+![](https://raw.githubusercontent.com/r11525125/SOP/main/fig_14_sched_active.png)
 
 - Lower queues imply better scheduling under bursty loads
 
@@ -120,13 +120,13 @@ Settings
 
 # Fig. 15: Policy Delay (Video/Sensor/Bulk)
 
-![](fig_policy_delay.png)
+![](https://raw.githubusercontent.com/r11525125/SOP/main/fig_policy_delay.png)
 
 ---
 
 # Fig. 16: Policy Throughput (Video/Sensor/Bulk)
 
-![](fig_policy_bulk.png)
+![](https://raw.githubusercontent.com/r11525125/SOP/main/fig_policy_bulk.png)
 
 ---
 
@@ -143,13 +143,13 @@ Settings
 
 # Fig. 17: SOP vs LSTM Delay
 
-![](fig_lstm_delay.png)
+![](https://raw.githubusercontent.com/r11525125/SOP/main/fig_lstm_delay.png)
 
 ---
 
 # Fig. 18: SOP vs LSTM Throughput
 
-![](fig_lstm_bulk.png)
+![](https://raw.githubusercontent.com/r11525125/SOP/main/fig_lstm_bulk.png)
 
 ---
 
